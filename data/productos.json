@@ -22,6 +22,16 @@
   },
   {
     "tipo": "caja",
+    "nombre": "St17",
+    "categoria": "One Piece",
+    "idioma": "Ingles",
+    "precio": 25,
+    "stock": 12,
+    "imagen": "img/cajas/onepiece/st17.png",
+    "descripcion": "ST17 de whitebeard One piece TCG"
+  },
+  {
+    "tipo": "caja",
     "nombre": "Caja Stock 3",
     "categoria": "One Piece",
     "idioma": "Español",
