@@ -1,11 +1,11 @@
 [
   {
     "tipo": "caja",
-    "nombre": "Caja Stock 1",
+    "nombre": "Caja Digimon 1",
     "categoria": "Digimon",
     "idioma": "Español",
-    "precio": 50,
-    "stock": 10,
+    "precio": sellada 85   directo 80,
+    "stock": disponible,
     "imagen": "img/cajas/digimon/1.png",
     "descripcion": "Caja clásica de la colección base de Pokémon. Contiene 36 sobres de cartas."
   },
