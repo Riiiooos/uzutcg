@@ -1,9 +1,9 @@
 [
   {
     "tipo": "caja",
-    "nombre": "Caja Digimon 1",
+    "nombre": "EX10",
     "categoria": "Digimon",
-    "idioma": "Español",
+    "idioma": "Ingles",
     "precio": 85,
     "stock": "disponible",
     "imagen": "img/cajas/digimon/ex10.png",
